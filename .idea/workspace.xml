@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2ead130-b740-461f-8389-13fefee6ea6e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/abstract_change_detector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/abstract_change_detector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/angular2.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/angular2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/annotations.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/annotations.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/annotations.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/application.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/ast.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/async.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/benchmark_util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/benchmark_util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/binding.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/binding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/binding_propagation_config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/binding_propagation_config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/browser.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/dom/browser_adapter.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/dom/browser_adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/change_detection.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/change_detection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/change_detection_jit_generator.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/change_detection_jit_generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/change_detection_util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/change_detection_util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/coalesce.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/coalesce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/collection.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/collection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_control.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_element.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_pipeline.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_pipeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_step.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/compile_step.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/compiler.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/component_url_mapper.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/component_url_mapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_emulation/content_tag.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_emulation/content_tag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/css_processor.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/css_processor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/default_steps.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/default_steps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/di.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/di.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/di.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/di.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/directive_metadata.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/directive_metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/directive_metadata_reader.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/directive_metadata_reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/directive_parser.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/directive_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/directives.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/directives.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/dom/dom_adapter.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/dom/dom_adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/dynamic_change_detector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/dynamic_change_detector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/e2e_util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/e2e_util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/dom/element.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/dom/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/element_binder.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/element_binder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/element_binder_builder.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/element_binder_builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/element_binding_marker.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/element_binding_marker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/element_injector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/element_injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/es6-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/events/event_manager.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/events/event_manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/exception_handler.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/exception_handler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/exceptions.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/exceptions.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/exceptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/exceptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/for.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/for.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/form_builder.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/form_builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/forms.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/dom/generic_browser_adapter.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/dom/generic_browser_adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/events/hammer_common.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/events/hammer_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/events/hammer_gestures.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/events/hammer_gestures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/if.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/injector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/interfaces.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/interfaces.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/interfaces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/interfaces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/iterable_changes.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/iterable_changes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/key.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/key.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/keyvalue_changes.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/keyvalue_changes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/lang.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/lang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/lexer.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/lexer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/life_cycle/life_cycle.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/life_cycle/life_cycle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_emulation/light_dom.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_emulation/light_dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/locals.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/locals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/math.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/facade/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/model.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ng2build.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/non_bindable.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/non_bindable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/null_pipe.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/null_pipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/opaque_token.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/di/opaque_token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/parser.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/parser/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/perf_util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/perf_util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/pipe.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/pipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/pipe_registry.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/pipes/pipe_registry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/private_component_loader.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/private_component_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/private_component_location.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/private_component_location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/property_binding_parser.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/property_binding_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/proto_change_detector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/proto_change_detector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/proto_element_injector_builder.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/proto_element_injector_builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/proto_record.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/change_detection/proto_record.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/proto_view_builder.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/proto_view_builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/reflection.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/reflection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/reflection_capabilities.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/reflection_capabilities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/reflector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/reflector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtts_assert/rtts_assert.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtts_assert/src/rtts_assert.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtts_assert/rtts_assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rtts_assert/src/rtts_assert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/selector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_emulation/shadow_css.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_emulation/shadow_css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_strategy.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/shadow_dom_strategy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strip_maps.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/style_inliner.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/style_inliner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/style_url_resolver.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/style_url_resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/switch.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/directives/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/template.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/template_loader.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/template_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/template_resolver.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/template_resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/mock/template_resolver_mock.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/mock/template_resolver_mock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/test_injector.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/test_injector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/test_lib.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/test_lib.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/test_lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/test_lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/text_interpolation_parser.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/text_interpolation_parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/services/title.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/services/title.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/traceurOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/types.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/reflection/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/url_resolver.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/url_resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/utils.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/test_lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/validator_directives.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/validator_directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/validators.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/forms/validators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/view.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/view_container.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/view_container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/view_pool.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/view_pool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/view_splitter.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/pipeline/view_splitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/visibility.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/annotations/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/zone/vm_turn_zone.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/zone/vm_turn_zone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/xhr/xhr.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/xhr/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/xhr/xhr_impl.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/core/compiler/xhr/xhr_impl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/mock/xhr_mock.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular2/src/mock/xhr_mock.js" />
+    </list>
+    <ignored path="angular2.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="angular2.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="key.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/angular2/src/di/key.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60505164" vertical-offset="0" max-vertical-offset="1394">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Sample Projects\angular2.0" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2ead130-b740-461f-8389-13fefee6ea6e" name="Default" comment="" />
+      <created>1428074375636</created>
+      <option name="number" value="Default" />
+      <updated>1428074375636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular2/src/di/key.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60505164" vertical-offset="0" max-vertical-offset="1394">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
