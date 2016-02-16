@@ -11,5 +11,7 @@ First Plnkr: http://plnkr.co/edit/ReUvDVjGPVTyyQzLreHs?p=preview
 - TypeScript provide planned features from future JavaScript editions to current JavaScript engines.
 - TypeScript provides compile time type safety for your JavaScript code.
 - TypeScript is intentionally and strictly a superset of JavaScript with optional Type checking.
+- TypeScript tries to infer as much of the type information as it can in order to give you type safety with minimal cost of productivity during code development.
+- TypeScript uses postfix type annotations popular in other optionally annotated languages (e.g. ActionScript and F#).
    
 Happy Coding!
