@@ -13,5 +13,6 @@ First Plnkr: http://plnkr.co/edit/ReUvDVjGPVTyyQzLreHs?p=preview
 - TypeScript is intentionally and strictly a superset of JavaScript with optional Type checking.
 - TypeScript tries to infer as much of the type information as it can in order to give you type safety with minimal cost of productivity during code development.
 - TypeScript uses postfix type annotations popular in other optionally annotated languages (e.g. ActionScript and F#).
+- To make it easy for you to migrate your JavaScript code to TypeScript, even if there are compilation errors, by default TypeScript will emit valid JavaScript the best that it can.
    
 Happy Coding!
