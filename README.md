@@ -15,5 +15,6 @@ First Plnkr: http://plnkr.co/edit/ReUvDVjGPVTyyQzLreHs?p=preview
 - TypeScript uses postfix type annotations popular in other optionally annotated languages (e.g. ActionScript and F#).
 - To make it easy for you to migrate your JavaScript code to TypeScript, even if there are compilation errors, by default TypeScript will emit valid JavaScript the best that it can.
 - One of the main selling points of TypeScript is that it allows you to use a bunch of features from ES6 and beyond in current (ES3 and ES5 level) JavaScript engines (like current browsers and NodeJS).
+- One of the main selling points of TypeScript is that it allows you to use a bunch of features from ES6 and beyond in current (ES3 and ES5 level) JavaScript engines (like current browsers and NodeJS).
    
 Happy Coding!
